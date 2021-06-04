@@ -7,4 +7,4 @@ def experimental():
 
 
 def new_func():
-    pass
+    print('devdev')

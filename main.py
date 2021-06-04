@@ -16,5 +16,8 @@ def new_func():
 # git switch master
 # git merge dev
 # git branch -d dev
+
+
 def new():
     print('new')
+    print('Hi')

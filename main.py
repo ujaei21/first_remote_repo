@@ -8,3 +8,11 @@ def experimental():
 
 def new_func():
     print('devdev')
+
+# git branch dev
+# git switch dev
+# git add .
+# git commit -m 'dev1'
+# git switch master
+# git merge dev
+# git branch -d dev
